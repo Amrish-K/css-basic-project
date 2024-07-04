@@ -1,6 +1,6 @@
-###AIM:
+### AIM:
 Design a website like the one given below
-###contact.html:
+### contact.html:
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -862,6 +862,7 @@ Design a website like the one given below
 ![Screenshot (38)](https://github.com/Amrish-K/css-basic-project/assets/130633944/bbf4bd72-a0f7-4063-9374-a6ba28215f37)
 ![Screenshot (39)](https://github.com/Amrish-K/css-basic-project/assets/130633944/ade88cc4-e93d-462a-9868-98254c611b70)
 ![Screenshot (40)](https://github.com/Amrish-K/css-basic-project/assets/130633944/e9a952ff-0e64-42b0-a8a5-da26d11b7966)
-```
+### RESULT:
+Thus, the website using CSS was created successfully.
 
 
