@@ -676,6 +676,7 @@ Design a website like the one given below
 </html>
 ```
 ###products.html:
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
